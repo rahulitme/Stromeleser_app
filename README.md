@@ -3,6 +3,7 @@ Stromleser  meter which reads the energy consumption daily basies out of an Ener
 and also we can rorate the stromleser in 360 degree
 
 ![Screenshot 2024-11-01 123411](https://github.com/user-attachments/assets/38eb9d3c-58e9-4586-9e44-8506ebe2f811)
+![Screenshot 2024-11-01 123442](https://github.com/user-attachments/assets/6d878cde-baa6-4841-918a-c05bbec3da19)
 
 
 
