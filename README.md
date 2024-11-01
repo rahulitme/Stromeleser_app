@@ -1,16 +1,8 @@
-# myapp
+# Stromeleser_app
+Stromleser  meter which reads the energy consumption daily basies out of an Energy meter and provides the value to the user.
+and also we can rorate the stromleser in 360 degree
 
-A new Flutter project.
+![Screenshot 2024-11-01 123411](https://github.com/user-attachments/assets/38eb9d3c-58e9-4586-9e44-8506ebe2f811)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
